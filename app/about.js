@@ -5,7 +5,7 @@ export default function AboutPage() {
     <main className={styles.main}>
       <div className={styles.description}>
         <p>
-          Get started by eng&nbsp;
+          Get started eng&nbsp;
           <code className={styles.code}>app/page.js</code>
         </p>
         <div>
@@ -136,7 +136,7 @@ export default function AboutPage() {
             Deploy <span>-&gt;</span>
           </h2>
           <p>
-            Instantly deploy Next.js site to a shareable URL with Vercel.
+            Instantly deploy Next.js site to a shareable URL with Vercel....
           </p>
         </a>
       </div>
