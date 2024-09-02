@@ -136,7 +136,7 @@ export default function AboutPage() {
             Deploy <span>-&gt;</span>
           </h2>
           <p>
-            SO(ME THING HERE
+            SO(ME THING HERE !!!!
           </p>
         </a>
       </div>
