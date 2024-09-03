@@ -5,7 +5,7 @@ export default function AboutPage() {
     <main className={styles.main}>
       <div className={styles.description}>
         <p>
-          Get started eng&nbsp;
+          Get d eng&nbsp;
           <code className={styles.code}>app/page.js</code>
         </p>
         <div>
